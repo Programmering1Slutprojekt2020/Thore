@@ -1,0 +1,12 @@
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\bin\Debug\netcoreapp3.1\Fyra i rad.exe
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\bin\Debug\netcoreapp3.1\Fyra i rad.deps.json
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\bin\Debug\netcoreapp3.1\Fyra i rad.runtimeconfig.json
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\bin\Debug\netcoreapp3.1\Fyra i rad.runtimeconfig.dev.json
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\bin\Debug\netcoreapp3.1\Fyra i rad.dll
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\bin\Debug\netcoreapp3.1\Fyra i rad.pdb
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\obj\Debug\netcoreapp3.1\Fyra i rad.csproj.CoreCompileInputs.cache
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\obj\Debug\netcoreapp3.1\Fyra i rad.AssemblyInfoInputs.cache
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\obj\Debug\netcoreapp3.1\Fyra i rad.AssemblyInfo.cs
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\obj\Debug\netcoreapp3.1\Fyra i rad.dll
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\obj\Debug\netcoreapp3.1\Fyra i rad.pdb
+C:\Users\thore\OneDrive - Jönköpings kommun\Programmering\Fyra i rad\Fyra i rad\obj\Debug\netcoreapp3.1\Fyra i rad.genruntimeconfig.cache
